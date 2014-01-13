@@ -43,3 +43,9 @@ What's in this repository?
 --------------------------
 
 *cheat-sheets*: IPython notebooks illustrating basic concepts
+
+Sara's Notes
+---------------------------
+
+- Note 1
+- Note 2
